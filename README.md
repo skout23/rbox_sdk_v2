@@ -1,9 +1,6 @@
 RboxSdkV2
 =========
 
-rbox
-====
-
 A Ruby wrapper for box.com API version 1 for auth and version 2 for all file/folder operations.
 (also known as box.net, now at box.com but just call me box its okay)
 
